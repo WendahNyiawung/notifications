@@ -1,0 +1,14 @@
+{
+  "name": "notification",
+  "version": "1.0.0",
+  "description": "just some app notifications with tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build main.css -o style.css"
+  },
+  "author": "Wendah Desond",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
